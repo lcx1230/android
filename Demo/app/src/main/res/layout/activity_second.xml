@@ -31,15 +31,4 @@
         app:layout_constraintStart_toStartOf="parent"
         android:layout_marginTop="16dp" />
 
-    <!-- Button 2: Subscription -->
-    <Button
-        android:id="@+id/bt_subscription"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Subscription"
-        app:layout_constraintTop_toBottomOf="@+id/bt_message"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginTop="16dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
